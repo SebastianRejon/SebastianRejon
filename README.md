@@ -1,4 +1,4 @@
-![header](img/headergithub.png "cabecera presentacion")
+![header](/headergithub.png "cabecera presentacion")
 ## Sobre Mi
 ---
 Soy Front End Developer, profesor de Algoritmos y Estructuras de Datos; ademas trabajos para terceros desarrollando aplicaciones de gestion y digestion de datos.
