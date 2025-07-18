@@ -8,15 +8,6 @@ Me encanta trasmitir conocimiento usando un lenguaje llano para introducir a mis
 
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/javaScript">
-</div>
-</p>
-
 ```python
 class RejonS():
     
@@ -44,16 +35,22 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-------
 
-<div style="display: flex; gap: 2px; align-items: space beetwen;">
+<div style="display: flex; gap: 2px; justify-content: center;">
   <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/C#" width="64px" />
 <div>
 
-------
+<div style="display: flex; gap: 2px; justify-content: center;">
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/Unity" width="64px" />
+<div>
+
 
 
 Last Edited on: 17/07/2025
