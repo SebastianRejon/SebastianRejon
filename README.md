@@ -1,9 +1,6 @@
 ![header](/headergithub.png "cabecera presentacion")
-<h1 align="center">
-  <b>Sebastian F. Rejón</b>
-</h1>
 
-Hola soy Sebastián Rejón. Me encanta dar soluciones por medio de desarrollo de Webs App y aplicaciones de escritorio.
+Me encanta dar soluciones por medio de desarrollo de Webs App y aplicaciones de escritorio.
 Me encanta trasmitir conocimiento usando un lenguaje llano para introducir a mis alumnos en temas complejos.
 
 <br>
@@ -15,7 +12,7 @@ class RejonS():
     self.name = "Rejón Sebastián Francisco";
     self.username = "SebastianRejon";
     self.location = "Argentina, Santa Fe, Rosario";
-    self.Linkdin = "xxxxxx";
+    self.Linkdin = "www.linkedin.com/in/sebastianrejonit";
     self.web = "https://rejonsebastian.dev";
   
   def __str__(self):
@@ -31,8 +28,7 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebastianRejon&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianRejon&theme=gruvbox&hide_border=true" />
-  </a>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianRejon&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 
