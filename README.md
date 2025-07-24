@@ -1,9 +1,8 @@
 ![header](/headergithub.png "cabecera presentacion")
 
-Me encanta dar soluciones por medio de desarrollo de Webs App y aplicaciones de escritorio.
-Me encanta trasmitir conocimiento usando un lenguaje llano para introducir a mis alumnos en temas complejos.
-
-<br>
+Me encanta resolver problemas por medio de código sea bajo la forma de un script, una Web App o una aplicación de escritorio.
+Mi hobby favorito es trasmitir conocimiento sobre programación, algoritmos y poder tener el alcance mas extenso implementando un lenguaje simple pero efectivo.
+Considero ser una mente inquieta que busca profundizar en sus conocimientos, lo nuevo es bienvenido siempre, nada esta de más. Tengo predilección pro la novela policial, las series; soy confeso cinéfilo.
 
 ```python
 class RejonS():
@@ -22,6 +21,21 @@ if __name__ == '__main__':
     me = RejonS()
     print(me)
 ```
+## Lenguajes
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,c,r" />
+  </a>
+</p>
+
+## Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,md,github,vercel,wordpress" />
+  </a>
+</p>
 
 ## My Statistics
 
@@ -32,21 +46,13 @@ if __name__ == '__main__':
 </p>
 <br>
 
-<div style="display: flex; gap: 2px; justify-content: center;">
-  <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/C#" width="64px" />
-<div>
 
-<div style="display: flex; gap: 2px; justify-content: center;">
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/Unity" width="64px" />
-<div>
 
+### Como hice mi Readme
+
+ 
 
 
 Last Edited on: 17/07/2025
+
+
