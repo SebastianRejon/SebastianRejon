@@ -47,6 +47,16 @@ if __name__ == '__main__':
 <br>
 
 
+### Contacta conmigo por medio de:
+
+<p align="center">
+  <a href="mailto:rejon.sebastian♠@gmail.com" target="_blancl">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+<a href="#" target="_blancl">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ### Como hice mi Readme
 
