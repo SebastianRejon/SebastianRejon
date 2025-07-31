@@ -37,7 +37,7 @@ if __name__ == '__main__':
   </a>
 </p>
 
-## My Statistics
+## Mis Estáticas
 
 <br/>
 <p align="left">
@@ -53,15 +53,10 @@ if __name__ == '__main__':
   <a href="mailto:rejon.sebastian♠@gmail.com" target="_blancl">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-<a href="#" target="_blancl">
+<a href="https://www.linkedin.com/in/sebastianrejonit" target="_blancl">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-### Como hice mi Readme
-
- 
-
 
 Last Edited on: 17/07/2025
 
