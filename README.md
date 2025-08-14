@@ -1,8 +1,11 @@
 ![header](/headergithub.png "cabecera presentacion")
-
+<br>
+<p align="justify">
 Me encanta resolver problemas por medio de código sea bajo la forma de un script, una Web App o una aplicación de escritorio.
 Mi hobby favorito es trasmitir conocimiento sobre programación, algoritmos y poder tener el alcance mas extenso implementando un lenguaje simple pero efectivo.
-Considero ser una mente inquieta que busca profundizar en sus conocimientos, lo nuevo es bienvenido siempre, nada esta de más. Tengo predilección pro la novela policial, las series; soy confeso cinéfilo.
+Considero ser una mente inquieta que busca profundizar en sus conocimientos, lo nuevo es bienvenido siempre, nada está de más. Tengo predilección pro la novela policial, las series; soy confeso cinéfilo.
+</p>
+<br>
 
 ```python
 class RejonS():
@@ -40,9 +43,10 @@ if __name__ == '__main__':
 ## Mis Estáticas
 
 <br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebastianRejon&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianRejon&theme=gruvbox&hide_border=true" />
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebastianRejon&show_icons=true&theme=dark" />
+  <br>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianRejon&theme=gruvbox&hide_border=true" />  
 </p>
 <br>
 
@@ -50,7 +54,7 @@ if __name__ == '__main__':
 ### Contacta conmigo por medio de:
 
 <p align="center">
-  <a href="mailto:rejon.sebastian♠@gmail.com" target="_blancl">
+  <a href="mailto:rejon.sebastian@gmail.com" target="_blancl">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 <a href="https://www.linkedin.com/in/sebastianrejonit" target="_blancl">
@@ -58,6 +62,6 @@ if __name__ == '__main__':
   </a>
 </p>
 
-Last Edited on: 17/07/2025
+Last Edited on: 14/08/2025
 
 
